@@ -38,7 +38,7 @@ $$F_{2n} = F_n (F_{n+1} + F_{n-1})$$
 
 * GCD identity:
   
-$$GCD(F_m, F_n) = F_{GCD(m, n)}$$
+$$\gcd(F_m, F_n) = F_{\gcd(m, n)}$$
 
 * Fibonacci numbers are the worst possible inputs for Euclidean algorithm (see Lame's theorem in [Euclidean algorithm](euclid-algorithm.md))
 
